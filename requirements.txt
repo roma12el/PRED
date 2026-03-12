@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+scikit-learn
+xgboost
+scipy
+matplotlib
+seaborn
+joblib
+statsmodels
+streamlit-option-menu
+streamlit-extras
+streamlit-aggrid
+plotly-express
